@@ -1,0 +1,6 @@
+{
+  "name": "TechLabs",
+  "description": "Precision Engineering for Modern Devs - Technical research, kernel deep-dives, systems architecture, and live dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
